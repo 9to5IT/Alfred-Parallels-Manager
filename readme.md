@@ -32,7 +32,7 @@ As mention above, this worflow requires `jq` to be installed in `/usr/local/bin`
 Next is the super easy part, installing the Parallels Manager workflow in Alfred.
 
 1. First you actually need Alfred installed. If you don't have this head over to the [Alfred website](https://www.alfredapp.com/).
-2. Clone or downlod this repo. Alternatively download [this](./Parallels Manager.alfredworkflow) file.
+2. Clone or downlod this repo. Alternatively right click this [this link](./Parallels%20Manager.alfredworkflow) and select Save as.
 3. Double click the `Parallels Manager.alfredworkflow` file
 4. This will automatically install the workflow in Alfred
 
