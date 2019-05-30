@@ -1,6 +1,6 @@
 # Alfred Workflow - Parallels Manager
 
-This is an [Alfred Workflow](https://www.alfredapp.com/) which is used to manage all of your Parallels VMs (virtual machines). The options available are:
+This is an [Alfred Workflow](https://www.alfredapp.com/) (Alfred 3 & Alfred 4) which is used to manage all of your Parallels VMs (virtual machines). The options available are:
 
 - Start
 - Stop
@@ -50,3 +50,7 @@ To use Alfred Parallels Manager do the following:
 ## Source Code
 
 If you would like to make your own version all of the source code is available in the `src` directory.
+
+## Alfred Version Support
+
+This workflow has been tested successfully on Alfred 3 and Alfred 4.
