@@ -11,13 +11,13 @@ This is an [Alfred Workflow](https://www.alfredapp.com/) which is used to manage
 
 **Note:** You must have `jq` installed in `/usr/local/bin` for this to workflow to run. `jq` is a command-line JSON processor. For more information visit the [jq website](https://stedolan.github.io/jq/).
 
-## Example
+## How it works
 
 ![Alfred Parallels Manager](/docs/alfred-parallels-manager.gif)
 
 ## Installation
 
-#### JQ Install
+#### JQ install
 
 As mention above, this worflow requires `jq` to be installed in `/usr/local/bin`. The easiest way to do this is using [homebrew](https://brew.sh/), which is a package manager for MacOS.
 
@@ -27,12 +27,12 @@ As mention above, this worflow requires `jq` to be installed in `/usr/local/bin`
 4. To validate it was installed in the correct location run `ls /usr/local/bin | grep jq`. If the words `jq` are returned then you know it has been installed. If not, jq is not installed in `/usr/local/bin`
 5. It is very important you have `jq` installed before proceeding.
 
-#### Alfred Workflow
+#### Alfred workflow
 
 Next is the super easy part, installing the Parallels Manager workflow in Alfred.
 
 1. First you actually need Alfred installed. If you don't have this head over to the [Alfred website](https://www.alfredapp.com/).
-2. Clone or downlod this repo.
+2. Clone or downlod this repo. Alternatively download [this](./Parallels Manager.alfredworkflow) file.
 3. Double click the `Parallels Manager.alfredworkflow` file
 4. This will automatically install the workflow in Alfred
 
